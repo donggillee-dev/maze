@@ -12,6 +12,7 @@ router.use('/login',login);
 router.use('/rank',rank);
 router.use('/tutorial', tutorial);
 router.use('/ticket', ticket);
+
 router.use('/adver', adv);
 
 module.exports = router;
